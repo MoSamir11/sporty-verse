@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'sporty-verse'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6F88AF436FCE479B95F5698619094310 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E7AC07E1BFF149559ECEDE5A8E4DE427 }}
           package: .
